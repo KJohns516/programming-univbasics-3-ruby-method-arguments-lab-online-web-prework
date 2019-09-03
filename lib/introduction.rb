@@ -3,8 +3,8 @@
 # thing is NOT to "complete labs," the important thing is to learn the skills you need
 # in order to complete the rest of this course and be ready for the next course!
 
-#def introduction(Kristan Johns)
-#  puts "Hi, my name is #{Kristan Johns}."
+#def introduction(Kristan)
+#  puts "Hi, my name is #{Kristan}."
 #end
 
 #def introduction_with_language(Kristan, Ruby)
@@ -12,7 +12,7 @@
 #end
 
 #def introduction_with_language_optional(Kristan, language="Ruby")
-#  puts "Hi, my name is #{Kristan Johns} and I am learning to program in #{Ruby}."
+#  puts "Hi, my name is #{Kristan} and I am learning to program in #{Ruby}."
 #end
 
 
