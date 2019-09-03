@@ -3,17 +3,7 @@
 # thing is NOT to "complete labs," the important thing is to learn the skills you need
 # in order to complete the rest of this course and be ready for the next course!
 
-#def(Kristan)
-#puts "Hi, my name is #{Kristan}."
-#end
 
-#def(Kristan, Ruby)
-#puts "Hi, my name is #{Kristan} and I am learning to program in #{Ruby}."
-#end
-
-#def(Kristan, language="Ruby")
-#puts "Hi, my name is #{Kristan} and I am learning to program in #{Ruby}."
-#end
 
 
 
