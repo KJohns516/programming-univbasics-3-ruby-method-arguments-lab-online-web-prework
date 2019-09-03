@@ -7,11 +7,11 @@
 #  puts "Hi, my name is #{Kristan}."
 #end
 
-#def introduction_with_language(Kristan, Ruby)
+#def(Kristan, Ruby)
 #  puts "Hi, my name is #{Kristan} and I am learning to program in #{Ruby}."
 #end
 
-#def introduction_with_language_optional(Kristan, language="Ruby")
+#def(Kristan, language="Ruby")
 #  puts "Hi, my name is #{Kristan} and I am learning to program in #{Ruby}."
 #end
 
