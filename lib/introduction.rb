@@ -6,7 +6,7 @@
 # lib/introduction.rb
 
 def introduction(Kristan)
-  puts "Hi, my name is #(Kristan"
+  puts "Hi, my name is #{Kristan}."
 
 
 
